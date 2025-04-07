@@ -17,7 +17,7 @@
 4. Запустите и наслаждайтесь стабильной работой!
 
 ## Дополнительные ресурсы:
-Ссылка на файлы игры: 
+Ссылка на файлы игры: https://drive.google.com/file/d/1jjQluqCurz7oPbxdRztEGSYjgxaeUgJg/view?usp=sharing
 
 Если у вас возникли вопросы или предложения, создавайте **Issue** или отправляйте **Pull Request**.  
 Спасибо за поддержку!
@@ -43,7 +43,7 @@ This repository contains the fixed and working source code of `mtasa-blue-1.5.9`
 4. Run and enjoy stable performance!
 
 ## Additional Resources:
-Link to game files: 
+Link to game files: https://drive.google.com/file/d/1jjQluqCurz7oPbxdRztEGSYjgxaeUgJg/view?usp=sharing
 
 If you have any questions or suggestions, please create an **Issue** or submit a **Pull Request**.  
 Thank you for your support!
